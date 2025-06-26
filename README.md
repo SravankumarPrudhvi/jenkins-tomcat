@@ -10,6 +10,7 @@ Step 1: Find the Jenkins User
 Jenkins typically runs as the jenkins user.
 
 Check with:
+
 ps aux | grep jenkins
 If Jenkins is running under jenkins, proceed to give it access.
 
