@@ -45,6 +45,13 @@ Then change your Jenkins shell command:
 
 sudo cp -r /var/lib/jenkins/workspace/demo-project/target/WebApp.war /opt/tomcat/webapps/
 
+
+
+
+
+
+testing
+
 # Build Instruction
 
 
